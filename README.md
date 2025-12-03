@@ -1,175 +1,86 @@
-<div align="center">
+# Hey, I'm Orestis Lef
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Orestis%20Lef&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Mobile%20%26%20AI%20Expert%20%7C%20Greece%20🇬🇷&descAlignY=52&descSize=18"/>
+**Software Developer from Greece** | Mobile & AI Solutions
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+intelligent+solutions+that+matter;Transforming+ideas+into+code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orestislef.gr-0071e3?style=flat-square&logo=safari&logoColor=white)](https://orestislef.gr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orestislef/)
+[![GitHub followers](https://img.shields.io/github/followers/orestislef?label=Follow&style=social)](https://github.com/orestislef)
 
-<!-- Badges Row -->
-<p>
-<a href="https://orestislef.gr"><img src="https://img.shields.io/badge/Portfolio-orestislef.gr-00d9ff?style=for-the-badge&logo=safari&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/orestislef/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=orestislef&style=for-the-badge&color=00d9ff"/>
-</p>
+---
 
-</div>
+### About Me
 
-<!-- About Section with Animation -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-## ⚡ About Me
-
-```javascript
-const orestislef = {
-    location: "Greece 🇬🇷",
-    roles: ["Mobile Developer", "AI Enthusiast", "Problem Solver"],
-    currentFocus: "AI-powered taxi dispatch systems",
-    passions: ["Clean Code", "User Experience", "Innovation"],
-    funFact: "I debug with coffee ☕"
-};
+```kotlin
+val orestislef = Developer(
+    location = "Thessaloniki, Greece",
+    focus = listOf("Mobile Development", "AI Solutions", "Backend Systems"),
+    languages = listOf("Dart", "Kotlin", "Java", "PHP", "Python"),
+    currentProject = "AI-powered taxi dispatch systems"
+)
 ```
 
-- 🔭 Building **AI-driven mobility solutions**
-- 🌱 Deep diving into **ML, Cloud Architecture, Flutter**
-- 💡 Love turning complex problems into elegant solutions
-- 🎯 Goal: Create technology that improves daily life
-
-<br clear="both">
+- Building **intelligent mobility solutions** with AI
+- Passionate about **clean architecture** and **great UX**
+- Always exploring new technologies
 
 ---
 
-## 🛠️ Tech Arsenal
+### Tech Stack
 
-<div align="center">
+**Languages**
 
-### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Laiki Markets** | Find Greek street markets near you | [Live](https://orestislef.gr/laiki/site) · [Code](https://github.com/orestislef/laiki) |
+| **Claude AI Builder** | Build websites by chatting with AI | [Live](https://orestislef.gr/claude-ai/) · [Code](https://github.com/orestislef/claude-ai) |
+| **Slot Simulator** | Mathematical slot machine with 95% RTP | [Live](https://orestislef.gr/slot/) · [Code](https://github.com/orestislef/slot) |
+| **Minesweeper** | Classic game with modern design | [Live](https://orestislef.gr/minesweeper/) · [Code](https://github.com/orestislef/minesweeper) |
+| **IRIS QR Generator** | QR codes for IRIS payments | [Live](https://orestislef.gr/iris/) · [Code](https://github.com/orestislef/iris) |
+| **System Monitor** | Real-time server metrics | [Live](https://orestislef.gr/sysmonitor/) · [Code](https://github.com/orestislef/sysmonitor) |
+
+[**View all projects →**](https://orestislef.gr)
+
+---
+
+### GitHub Stats
+
 <p>
-<img src="https://skillicons.dev/icons?i=dart,kotlin,java,php,python,js,typescript&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=orestislef&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orestislef&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 </p>
 
-### Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,spring,androidstudio,firebase,docker,git,github,mysql,postgres,vscode&theme=dark" />
-</p>
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orestislef&theme=default&hide_border=true)
 
 ---
 
-## 📊 GitHub Analytics
+### Let's Connect
 
-<div align="center">
-<a href="https://github.com/orestislef">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orestislef&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orestislef&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
-</a>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orestislef&theme=algolia&hide_border=true&background=0d1117"/>
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orestislef&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff"/>
-</div>
-
-<!-- Trophies -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=orestislef&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
+- **Website**: [orestislef.gr](https://orestislef.gr)
+- **LinkedIn**: [/in/orestislef](https://www.linkedin.com/in/orestislef/)
+- **Email**: orestis_94@hotmail.com
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🚖 AI Taxi Dispatch
-**Kotlin • Spring Boot • ML • Docker**
-
-Intelligent system using AI for optimal ride assignments, real-time route optimization, and predictive demand analysis.
-
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/orestislef)
-
-</td>
-<td width="50%">
-
-### 📱 Laiki Markets Greece
-**Flutter • PHP • MySQL • Maps**
-
-Find local Greek street markets with real-time schedules and locations.
-
-[![Live](https://img.shields.io/badge/Live-orestislef.gr-00d9ff?style=flat)](https://orestislef.gr/laiki/site)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/orestislef/laiki)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎰 Slot Machine Simulator
-**PHP • JavaScript • REST API**
-
-Mathematical simulation with 95% RTP, real-time stats, and API for bulk simulations.
-
-[![Live](https://img.shields.io/badge/Live-orestislef.gr-00d9ff?style=flat)](https://orestislef.gr/slot/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/orestislef/slot)
-
-</td>
-<td width="50%">
-
-### 🤖 Claude AI Builder
-**PHP • JavaScript • Claude API**
-
-Build websites by chatting with AI in a sandboxed environment.
-
-[![Live](https://img.shields.io/badge/Live-orestislef.gr-00d9ff?style=flat)](https://orestislef.gr/claude-ai/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/orestislef/claude-ai)
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<a href="https://orestislef.gr">
-<img src="https://img.shields.io/badge/🌐_View_All_Projects-orestislef.gr-00d9ff?style=for-the-badge"/>
-</a>
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orestislef/orestislef/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orestislef/orestislef/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/orestislef/orestislef/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-<a href="https://orestislef.gr"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/orestislef/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:orestis_94@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/orestislef"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+*Building software that makes a difference*
