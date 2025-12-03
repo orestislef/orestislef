@@ -1,5 +1,7 @@
 # Hey, I'm Orestis Lef
 
+![Profile Views](https://komarev.com/ghpvc/?username=orestislef&color=blue&style=flat-square&label=Profile+Views)
+
 **Software Developer from Greece** | Mobile & AI Solutions
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orestislef.gr-0071e3?style=flat-square&logo=safari&logoColor=white)](https://orestislef.gr)
