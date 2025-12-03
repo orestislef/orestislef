@@ -1,151 +1,175 @@
-
-# 👋 Hi, I'm Orestis Lef
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer+from+Greece;Mobile+%26+AI+Solutions+Expert;Flutter+%7C+Kotlin+%7C+Java+%7C+Dart)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=orestislef&color=blue&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/orestislef?label=Follow&style=social)](https://github.com/orestislef)
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Orestis%20Lef&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Mobile%20%26%20AI%20Expert%20%7C%20Greece%20🇬🇷&descAlignY=52&descSize=18"/>
+
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+intelligent+solutions+that+matter;Transforming+ideas+into+code+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- Badges Row -->
+<p>
+<a href="https://orestislef.gr"><img src="https://img.shields.io/badge/Portfolio-orestislef.gr-00d9ff?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/orestislef/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=orestislef&style=for-the-badge&color=00d9ff"/>
+</p>
 
 </div>
 
-I'm a passionate software developer from Greece 🇬🇷 specializing in mobile app development and AI-driven solutions. With expertise in creating scalable applications and intelligent systems, I'm constantly exploring cutting-edge technologies to build solutions that make a difference.
+<!-- About Section with Animation -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🔭 Currently working on **AI-powered taxi dispatch systems** and **Flutter mobile applications**
-- 🌱 Learning **Machine Learning**, **Cloud Architecture**, and **Advanced Flutter patterns**
-- 👯 Looking to collaborate on **open source projects** and **innovative mobile solutions**
-- 💬 Ask me about **Flutter**, **Mobile Development**, **AI Integration**, or **System Architecture**
-- ⚡ Fun fact: I love optimizing algorithms and creating seamless user experiences
+```javascript
+const orestislef = {
+    location: "Greece 🇬🇷",
+    roles: ["Mobile Developer", "AI Enthusiast", "Problem Solver"],
+    currentFocus: "AI-powered taxi dispatch systems",
+    passions: ["Clean Code", "User Experience", "Innovation"],
+    funFact: "I debug with coffee ☕"
+};
+```
 
-## 🛠️ Tech Stack
+- 🔭 Building **AI-driven mobility solutions**
+- 🌱 Deep diving into **ML, Cloud Architecture, Flutter**
+- 💡 Love turning complex problems into elegant solutions
+- 🎯 Goal: Create technology that improves daily life
+
+<br clear="both">
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=dart,kotlin,java,php,python,js,typescript&theme=dark" />
+</p>
 
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+### Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,spring,androidstudio,firebase,docker,git,github,mysql,postgres,vscode&theme=dark" />
+</p>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
-### Development Environment
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🔥 Featured Projects
-
-### 🚖 AI-Based Taxi Dispatch System
-**Tech Stack:** `Kotlin` `Spring Boot` `Machine Learning` `PostgreSQL` `Docker`
-
-An intelligent taxi dispatch system that uses AI algorithms to optimize ride assignments, reduce waiting times, and maximize driver efficiency. The system analyzes real-time traffic data, driver locations, and passenger demand patterns to make smart dispatching decisions.
-
-**Key Features:**
-- Real-time route optimization
-- Predictive demand analysis
-- Driver performance analytics
-- Multi-platform mobile apps for drivers and passengers
-
-### 📱 Flutter Geolocation App
-**Tech Stack:** `Flutter` `Dart` `OpenStreetMaps` `Firebase` `REST APIs`
-
-A comprehensive real-time map application with advanced geolocation features, built using Flutter for cross-platform compatibility. Integrates with multiple mapping services and provides seamless navigation experiences.
-
-**Key Features:**
-- Real-time GPS tracking
-- Custom map markers and overlays
-- Offline map caching
-- Location-based notifications
-- Route planning and navigation
-
-### ⛽ Fuel Management System
-**Tech Stack:** `Flutter` `PHP` `MySQL` `REST APIs`
-
-A complete fuel management solution for tracking fuel consumption, costs, and vehicle maintenance schedules. Features comprehensive analytics and reporting capabilities.
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orestislef&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orestislef&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orestislef&layout=compact&theme=tokyonight&hide_border=true)
-
+<a href="https://github.com/orestislef">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orestislef&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orestislef&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
+</a>
 </div>
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orestislef&theme=tokyo-night&hide_border=true)
-
-### 💻 Development Activity
-
-<!--START_SECTION:waka-->
-```text
-🏆 1,169 contributions in the last year
-📦 23+ repositories created
-🔀 Active in mobile development and AI projects
-⭐ Focused on Flutter, Android, and backend systems
-```
-<!--END_SECTION:waka-->
-
-## 🌐 Connect With Me
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-orestislef.gr-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orestislef.gr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orestislef/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orestislef)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=orestislef&theme=algolia&hide_border=true&background=0d1117"/>
 </div>
 
-### 📬 Get In Touch
-- 🌐 **Website**: [orestislef.gr](https://orestislef.gr)
-- 💼 **LinkedIn**: [orestislef](https://www.linkedin.com/in/orestislef/)
-- 📧 **Email**: orestis_94@hotmail.com
-- 🐙 **GitHub**: [@orestislef](https://github.com/orestislef)
+<!-- Contribution Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orestislef&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff"/>
+</div>
+
+<!-- Trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=orestislef&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+</div>
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
-  <h3>⭐ If you like my projects, give them a star! ⭐</h3>
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🚖 AI Taxi Dispatch
+**Kotlin • Spring Boot • ML • Docker**
+
+Intelligent system using AI for optimal ride assignments, real-time route optimization, and predictive demand analysis.
+
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/orestislef)
+
+</td>
+<td width="50%">
+
+### 📱 Laiki Markets Greece
+**Flutter • PHP • MySQL • Maps**
+
+Find local Greek street markets with real-time schedules and locations.
+
+[![Live](https://img.shields.io/badge/Live-orestislef.gr-00d9ff?style=flat)](https://orestislef.gr/laiki/site)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/orestislef/laiki)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎰 Slot Machine Simulator
+**PHP • JavaScript • REST API**
+
+Mathematical simulation with 95% RTP, real-time stats, and API for bulk simulations.
+
+[![Live](https://img.shields.io/badge/Live-orestislef.gr-00d9ff?style=flat)](https://orestislef.gr/slot/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/orestislef/slot)
+
+</td>
+<td width="50%">
+
+### 🤖 Claude AI Builder
+**PHP • JavaScript • Claude API**
+
+Build websites by chatting with AI in a sandboxed environment.
+
+[![Live](https://img.shields.io/badge/Live-orestislef.gr-00d9ff?style=flat)](https://orestislef.gr/claude-ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/orestislef/claude-ai)
+
+</td>
+</tr>
+</table>
 </div>
 
-# 👋 Γεια, είμαι ο Orestis Lef
+<div align="center">
+<a href="https://orestislef.gr">
+<img src="https://img.shields.io/badge/🌐_View_All_Projects-orestislef.gr-00d9ff?style=for-the-badge"/>
+</a>
+</div>
 
-Είμαι προγραμματιστής λογισμικού από την Ελλάδα, με εξειδίκευση στην ανάπτυξη εφαρμογών για κινητά και λύσεις με χρήση Τεχνητής Νοημοσύνης. Εργάζομαι αυτή τη στιγμή με Dart, Flutter, Kotlin και Java. Μου αρέσει να δημιουργώ έξυπνες λύσεις και να εξερευνώ νέες τεχνολογίες.
+---
 
-### 🔧 Τεχνολογίες & Εργαλεία
-- **Γλώσσες**: Dart, Kotlin, Java, PHP
-- **Frameworks**: Flutter, Spring
-- **Εργαλεία**: XAMPP, OpenStreetMaps, GitHub Actions
+## 📈 Contribution Snake
 
-### 🚀 Έργα
-- **[Σύστημα Διαχείρισης Ταξί με AI](#)** - Ένα έξυπνο σύστημα διαχείρισης ταξί με χρήση AI, βελτιστοποιώντας την ανάθεση διαδρομών για οδηγούς.
-- **[Εφαρμογή Χάρτη Flutter](#)** - Εφαρμογή χάρτη σε πραγματικό χρόνο, χτισμένη με Flutter και δυνατότητες βασισμένες στην τοποθεσία.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orestislef/orestislef/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orestislef/orestislef/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/orestislef/orestislef/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
-### 💻 Portfolio
-Αυτή τη στιγμή εργάζομαι στη δημιουργία μιας όμορφης και ολοκληρωμένης παρουσίασης για το portfolio μου. Μείνετε συντονισμένοι για ενημερώσεις!
+---
 
-### 📊 Στατιστικά GitHub
-Τα περισσότερα έργα μου είναι ιδιωτικά, αλλά εργάζομαι ενεργά για να μοιραστώ περισσότερα έργα δημόσια. Μέχρι τότε, μπορείτε να δείτε τα pinned repositories παρακάτω και να εξερευνήσετε όσα έχω δημοσιεύσει.
+## 🌐 Connect
 
-### 📫 Πώς να με βρείτε:
-- [LinkedIn](https://www.linkedin.com/in/orestislef/)
-- Portfolio (Σε Πρόοδο)
+<div align="center">
+<a href="https://orestislef.gr"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/orestislef/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:orestis_94@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/orestislef"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
