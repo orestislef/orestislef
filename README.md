@@ -64,22 +64,19 @@ val orestislef = Developer(
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=orestislef&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orestislef&layout=compact&theme=default&hide_border=true&langs_count=8"/>
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orestislef&theme=default&hide_border=true)
+![Repos](https://img.shields.io/badge/Public_Repos-60+-blue?style=flat-square&logo=github)
+![Commits](https://img.shields.io/badge/Total_Commits-1000+-green?style=flat-square&logo=git)
+![Languages](https://img.shields.io/badge/Languages-Dart_|_Kotlin_|_Java_|_PHP-purple?style=flat-square)
 
 ---
 
 ### Let's Connect
 
-- **Website**: [orestislef.gr](https://orestislef.gr)
-- **LinkedIn**: [/in/orestislef](https://www.linkedin.com/in/orestislef/)
-- **Email**: orestis_94@hotmail.com
+[![Website](https://img.shields.io/badge/Website-orestislef.gr-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orestislef.gr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-orestislef-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orestislef/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orestis_94@hotmail.com)
 
 ---
 
