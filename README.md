@@ -73,6 +73,19 @@ val orestislef = Developer(
 
 ---
 
+### Published Packages
+
+[![pub.dev publisher](https://img.shields.io/badge/pub.dev-orestislef.gr-0175C2?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/publishers/orestislef.gr/packages)
+
+| Package | Description | Version |
+|---------|-------------|---------|
+| [**sip_helper**](https://pub.dev/packages/sip_helper) | Lightweight SIP/VoIP library for Dart — SIP (UDP), RTP audio, G.711 A-law, native audio I/O | ![v](https://img.shields.io/pub/v/sip_helper?style=flat-square&color=0175C2&label=) |
+| [**bring_app_to_foreground**](https://pub.dev/packages/bring_app_to_foreground) | Wake a Flutter app from background on Android for incoming VoIP/dispatch calls & alarms | ![v](https://img.shields.io/pub/v/bring_app_to_foreground?style=flat-square&color=0175C2&label=) |
+| [**iris_payment**](https://pub.dev/packages/iris_payment) | Greek IRIS payment QR generator with AFM (VAT/Tax ID) validation & styled QR codes | ![v](https://img.shields.io/pub/v/iris_payment?style=flat-square&color=0175C2&label=) |
+| [**flutter_map_tile_switcher**](https://pub.dev/packages/flutter_map_tile_switcher) | Switch map tile providers (OSM, Google, Satellite) with caching & auto dark mode | ![v](https://img.shields.io/pub/v/flutter_map_tile_switcher?style=flat-square&color=0175C2&label=) |
+
+---
+
 ### GitHub Activity
 
 ![Repos](https://img.shields.io/badge/Public_Repos-60+-blue?style=flat-square&logo=github)
