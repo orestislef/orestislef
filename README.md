@@ -25,6 +25,14 @@ val orestislef = Developer(
 
 ---
 
+### Philosophy
+
+> They say 90% of software coding will be gone, so we won't need software engineers anymore. Meanwhile, we're hiring more software engineers than ever. The reason? A software engineer's job is to solve problems — and to dream up problems worth solving. To innovate.
+>
+> I never hired someone and said, "Guess what, you're a software engineer — here's a keyboard, show me how many words per second you can type." Typing isn't the job. Coding isn't the job. **Solving problems is the job.**
+
+---
+
 ### Tech Stack
 
 **Languages**
