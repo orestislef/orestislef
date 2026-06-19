@@ -13,12 +13,13 @@
 ```kotlin
 val orestislef = Developer(
     location = "Thessaloniki, Greece",
-    focus = listOf("Mobile Development", "AI Solutions", "Backend Systems"),
+    focus = listOf("Mobile Development", "AI Solutions", "Backend Systems", "Voice AI & Telephony"),
     languages = listOf("Dart", "Kotlin", "Java", "PHP", "Python")
 )
 ```
 
 - Building **intelligent mobility solutions** with AI
+- Building **automated voice call flows** — real-time TTS/STT pipelines on **Asterisk** (e.g. an AI taxi-booking phone agent)
 - Passionate about **clean architecture** and **great UX**
 - Always exploring new technologies
 
@@ -53,6 +54,7 @@ val orestislef = Developer(
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Asterisk](https://img.shields.io/badge/Asterisk-F60018?style=flat-square&logo=asterisk&logoColor=white)
 
 ---
 
