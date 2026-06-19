@@ -14,8 +14,7 @@
 val orestislef = Developer(
     location = "Thessaloniki, Greece",
     focus = listOf("Mobile Development", "AI Solutions", "Backend Systems"),
-    languages = listOf("Dart", "Kotlin", "Java", "PHP", "Python"),
-    currentProject = "AI-powered taxi dispatch systems"
+    languages = listOf("Dart", "Kotlin", "Java", "PHP", "Python")
 )
 ```
 
