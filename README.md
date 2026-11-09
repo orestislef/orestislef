@@ -79,6 +79,7 @@ val orestislef = Developer(
 
 | Package | Description | Version |
 |---------|-------------|---------|
+| [**flutter_wireguard_tunnel**](https://pub.dev/packages/flutter_wireguard_tunnel) | WireGuard tunnel for Flutter on Android and iOS, split or full tunnel, keys made and kept on the device | ![v](https://img.shields.io/pub/v/flutter_wireguard_tunnel?style=flat-square&color=0175C2&label=) |
 | [**sip_helper**](https://pub.dev/packages/sip_helper) | Lightweight SIP/VoIP library for Dart — SIP (UDP), RTP audio, G.711 A-law, native audio I/O | ![v](https://img.shields.io/pub/v/sip_helper?style=flat-square&color=0175C2&label=) |
 | [**bring_app_to_foreground**](https://pub.dev/packages/bring_app_to_foreground) | Wake a Flutter app from background on Android for incoming VoIP/dispatch calls & alarms | ![v](https://img.shields.io/pub/v/bring_app_to_foreground?style=flat-square&color=0175C2&label=) |
 | [**iris_payment**](https://pub.dev/packages/iris_payment) | Greek IRIS payment QR generator with AFM (VAT/Tax ID) validation & styled QR codes | ![v](https://img.shields.io/pub/v/iris_payment?style=flat-square&color=0175C2&label=) |
