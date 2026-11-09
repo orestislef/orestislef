@@ -19,7 +19,7 @@ val orestislef = Developer(
 ```
 
 - Building **intelligent mobility solutions** with AI
-- Building **automated voice call flows** — real-time TTS/STT pipelines on **Asterisk** (e.g. an AI taxi-booking phone agent)
+- Building **automated voice call flows** with real-time TTS/STT pipelines on **Asterisk** (e.g. an AI taxi-booking phone agent)
 - Passionate about **clean architecture** and **great UX**
 - Always exploring new technologies
 
@@ -27,9 +27,9 @@ val orestislef = Developer(
 
 ### Philosophy
 
-> They say 90% of software coding will be gone, so we won't need software engineers anymore. Meanwhile, we're hiring more software engineers than ever. The reason? A software engineer's job is to solve problems — and to dream up problems worth solving. To innovate.
+> They say 90% of software coding will be gone, so we won't need software engineers anymore. Meanwhile, we're hiring more software engineers than ever. The reason? A software engineer's job is to solve problems, and to dream up problems worth solving. To innovate.
 >
-> I never hired someone and said, "Guess what, you're a software engineer — here's a keyboard, show me how many words per second you can type." Typing isn't the job. Coding isn't the job. **Solving problems is the job.**
+> I never hired someone and said, "Guess what, you're a software engineer. Here's a keyboard, show me how many words per second you can type." Typing isn't the job. Coding isn't the job. **Solving problems is the job.**
 
 ---
 
@@ -80,7 +80,7 @@ val orestislef = Developer(
 | Package | Description | Version |
 |---------|-------------|---------|
 | [**flutter_wireguard_tunnel**](https://pub.dev/packages/flutter_wireguard_tunnel) | WireGuard tunnel for Flutter on Android and iOS, split or full tunnel, keys made and kept on the device | ![v](https://img.shields.io/pub/v/flutter_wireguard_tunnel?style=flat-square&color=0175C2&label=) |
-| [**sip_helper**](https://pub.dev/packages/sip_helper) | Lightweight SIP/VoIP library for Dart — SIP (UDP), RTP audio, G.711 A-law, native audio I/O | ![v](https://img.shields.io/pub/v/sip_helper?style=flat-square&color=0175C2&label=) |
+| [**sip_helper**](https://pub.dev/packages/sip_helper) | Lightweight SIP/VoIP library for Dart, with SIP (UDP), RTP audio, G.711 A-law, native audio I/O | ![v](https://img.shields.io/pub/v/sip_helper?style=flat-square&color=0175C2&label=) |
 | [**bring_app_to_foreground**](https://pub.dev/packages/bring_app_to_foreground) | Wake a Flutter app from background on Android for incoming VoIP/dispatch calls & alarms | ![v](https://img.shields.io/pub/v/bring_app_to_foreground?style=flat-square&color=0175C2&label=) |
 | [**iris_payment**](https://pub.dev/packages/iris_payment) | Greek IRIS payment QR generator with AFM (VAT/Tax ID) validation & styled QR codes | ![v](https://img.shields.io/pub/v/iris_payment?style=flat-square&color=0175C2&label=) |
 | [**flutter_map_tile_switcher**](https://pub.dev/packages/flutter_map_tile_switcher) | Switch map tile providers (OSM, Google, Satellite) with caching & auto dark mode | ![v](https://img.shields.io/pub/v/flutter_map_tile_switcher?style=flat-square&color=0175C2&label=) |
