@@ -62,6 +62,7 @@ val orestislef = Developer(
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| **WireGuard Tunnel** | WireGuard VPN tunnels for Flutter apps on Android and iOS | [pub.dev](https://pub.dev/packages/flutter_wireguard_tunnel) · [Code](https://github.com/orestislef/flutter_wireguard_tunnel) |
 | **Laiki Markets** | Find Greek street markets near you | [Live](https://orestislef.gr/laiki/site) · [Code](https://github.com/orestislef/laiki) |
 | **Claude AI Builder** | Build websites by chatting with AI | [Live](https://orestislef.gr/claude-ai/) · [Code](https://github.com/orestislef/claude-ai) |
 | **Slot Simulator** | Mathematical slot machine with 95% RTP | [Live](https://orestislef.gr/slot/) · [Code](https://github.com/orestislef/slot) |
